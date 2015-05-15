@@ -43,10 +43,10 @@ data['Betrag (EUR)'] = data['Betrag (EUR)'].astype('float')
 
 # In[223]:
 
-# Anon the data
-import random
-data['Betrag (EUR)'] = [50-random.random()*100 for rv in range(len(data['Betrag (EUR)']))]
-data[u'Auftraggeber / Begünstigter'] = ['Empf/Sender '+str(i) for i in range(len(data['Betrag (EUR)']))]
+# Anon the data for public
+#import random
+#data['Betrag (EUR)'] = [50-random.random()*100 for rv in range(len(data['Betrag (EUR)']))]
+#data[u'Auftraggeber / Begünstigter'] = ['Empf/Sender '+str(i) for i in range(len(data['Betrag (EUR)']))]
 
 
 # ### Rename some things
