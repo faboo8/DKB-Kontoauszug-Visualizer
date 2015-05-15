@@ -6,4 +6,6 @@ Analyze .csv from your DKB bank account with Python Pandas
 ![csv Export](csv_export_DKB.png)
 
 
-[### See the .ipynb file for code & diagrams](https://github.com/balzer82/DKB-Kontoauszug-Visualizer/blob/master/DKB-Kontoauszug-Visualizer.ipynb)
+## [See the .ipynb file for code & diagrams](https://github.com/balzer82/DKB-Kontoauszug-Visualizer/blob/master/DKB-Kontoauszug-Visualizer.ipynb)
+
+Simply change to your account number (or whatever your `.csv` is named)
